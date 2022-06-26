@@ -2,6 +2,6 @@
   
 🔭 I’m working on: a startup  
 👯 I’m looking to collaborate on: projects, design and code  
-🤔 I’m looking for help with: are you a web developer?  
+🤔 I’m looking for: are you a web developer?  
 📫 How to reach me: dave yofi  
 😄 Pronouns: Dave [yo-fi]
